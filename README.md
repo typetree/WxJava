@@ -22,7 +22,7 @@
 				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/develop/images/qrcodes/mp.png">
         </a>
 			</td>
-      <td align="center" valign="middle" width="500">
+      <td align="center" valign="middle" width="450">
         <a href="http://ccflow.org/?from=WxJava" title="驰骋BPM" target="_blank">
           <img height="60px" src="http://ccflow.org/ccflowAD_Title.png" title="驰骋BPM官网">
           <p>1. 驰骋快速开发平台、工作流引擎、表单引擎采用GPL协议.</p>
