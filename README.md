@@ -22,10 +22,12 @@
 				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/develop/images/qrcodes/mp.png">
         </a>
 			</td>
-      <td align="center" valign="middle" width="250">
-        <a href="https://www.duohui.cn/?utm_source=WxJava&utm_medium=web&utm_campaign=WxJava_github" title="多会" target="_blank">
-          <img height="60px" src="https://qiniu.cdn.duohui.co/brand/duohui.png" title="多会 - 活动服务销售平台">
-          <p>活动服务销售平台</p>
+      <td align="center" valign="middle" width="500">
+        <a href="http://ccflow.org/?from=WxJava" title="驰骋BPM" target="_blank">
+          <img height="60px" src="http://ccflow.org/ccflowAD_Title.png" title="驰骋BPM官网">
+          <p>1. 驰骋快速开发平台、工作流引擎、表单引擎采用GPL协议.</p>
+<p>2. 驰骋.net版称为ccflow, java版称为jflow,代码100%开源.</p>
+<p>3. 支持10多个国内外数据库. 单机版\集团版\SAAS版本.</p>
         </a>
       </td>
 			<td align="center" valign="middle">
