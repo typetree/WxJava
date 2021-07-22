@@ -21,6 +21,9 @@
         <a href="http://mp.weixin.qq.com/mp/homepage?__biz=MzI3MzAwMzk4OA==&hid=1&sn=f31af3bf562b116b061c9ab4edf70b61&scene=18#wechat_redirect" target="_blank">
 				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/develop/images/qrcodes/mp.png">
         </a>
+				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=7makzf5h" target="_blank">
+					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/develop/images/banners/aliyun.jpg">
+				</a>
 			</td>
       <td align="center" valign="middle" width="450">
         <a href="http://ccflow.org/?from=WxJava" title="驰骋BPM" target="_blank">
@@ -30,11 +33,6 @@
 <p>3. 支持10多个国内外数据库. 单机版\集团版\SAAS版本.</p>
         </a>
       </td>
-			<td align="center" valign="middle">
-				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=7makzf5h" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/develop/images/banners/aliyun.jpg">
-				</a>
-			</td>
 		</tr>
 	</tbody>
 </table>
